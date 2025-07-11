@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<deck name="Brenner Palmer">
+ <main>
+  <card id="4375475" passcode="">Mecha Cardeal - Scout Troopers</card>
+  <card id="4375475" passcode="">Mecha Cardeal - Scout Troopers</card>
+  <card id="4375475" passcode="">Mecha Cardeal - Scout Troopers</card>
+  <card id="4418859" passcode="">Mecha Cardeal - Helogear</card>
+  <card id="4418859" passcode="">Mecha Cardeal - Helogear</card>
+  <card id="4418859" passcode="">Mecha Cardeal - Helogear</card>
+  <card id="4418892" passcode="">Mecha Cardeal - Log Companion</card>
+  <card id="4418892" passcode="">Mecha Cardeal - Log Companion</card>
+  <card id="4418892" passcode="">Mecha Cardeal - Log Companion</card>
+  <card id="148" passcode="10509340">Ancient Gear Beast</card>
+  <card id="158" passcode="83104731">Ancient Gear Golem</card>
+  <card id="9055" passcode="01278431">Ancient Gear Frame</card>
+  <card id="9055" passcode="01278431">Ancient Gear Frame</card>
+  <card id="9055" passcode="01278431">Ancient Gear Frame</card>
+  <card id="8311" passcode="44874522">Ancient Gear Reactor Dragon</card>
+  <card id="8313" passcode="17663375">Ancient Gear Wyvern</card>
+  <card id="8313" passcode="17663375">Ancient Gear Wyvern</card>
+  <card id="8313" passcode="17663375">Ancient Gear Wyvern</card>
+  <card id="150" passcode="92001300">Ancient Gear Castle</card>
+  <card id="150" passcode="92001300">Ancient Gear Castle</card>
+  <card id="8314" passcode="44052074">Ancient Gear Catapult</card>
+  <card id="8314" passcode="44052074">Ancient Gear Catapult</card>
+  <card id="8314" passcode="44052074">Ancient Gear Catapult</card>
+  <card id="8315" passcode="70147689">Ancient Gear Fortress</card>
+  <card id="8315" passcode="70147689">Ancient Gear Fortress</card>
+  <card id="9057" passcode="64061284">Ancient Gear Fusion</card>
+  <card id="9057" passcode="64061284">Ancient Gear Fusion</card>
+  <card id="15000" passcode="91098230">Ancient Gear Tanker</card>
+  <card id="15000" passcode="91098230">Ancient Gear Tanker</card>
+  <card id="15000" passcode="91098230">Ancient Gear Tanker</card>
+  <card id="153" passcode="04446672">Ancient Gear Explosive</card>
+  <card id="155" passcode="40830387">Ancient Gear Fist</card>
+  <card id="6433" passcode="60953949">Ancient Gear Box</card>
+  <card id="6433" passcode="60953949">Ancient Gear Box</card>
+  <card id="147" passcode="31557782">Ancient Gear</card>
+  <card id="147" passcode="31557782">Ancient Gear</card>
+  <card id="147" passcode="31557782">Ancient Gear</card>
+  <card id="2656" passcode="63995093">Machine Duplication</card>
+  <card id="2656" passcode="63995093">Machine Duplication</card>
+  <card id="2656" passcode="63995093">Machine Duplication</card>
+ </main>
+ <side>
+ </side>
+ <extra>
+  <card id="4375472" passcode="">Mecha Cardeal - East Dragon</card>
+  <card id="4375471" passcode="">Mecha Cardeal - South Phoenix</card>
+  <card id="4375469" passcode="">Mecha Cardeal - North Turtle</card>
+  <card id="4375411" passcode="">Mecha Cardeal - West Tiger</card>
+  <card id="8358" passcode="87182127">Ancient Gear Howitzer</card>
+  <card id="9056" passcode="37663536">Ancient Gear Megaton Golem</card>
+  <card id="4538" passcode="12652643">Ultimate Ancient Gear Golem</card>
+  <card id="8357" passcode="51788412">Chaos Ancient Gear Giant</card>
+  <card id="10501" passcode="10547580">Ancient Gear Ballista</card>
+ </extra>
+</deck>

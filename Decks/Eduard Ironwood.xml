@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<deck name="Eduard Ironwood">
+ <main>
+  <card id="8780" passcode="08567955">Balancer Lord</card>
+  <card id="8780" passcode="08567955">Balancer Lord</card>
+  <card id="8780" passcode="08567955">Balancer Lord</card>
+  <card id="12989" passcode="36521307">Mathmech Circular</card>
+  <card id="10294" passcode="89743495">Mathmech Division</card>
+  <card id="10294" passcode="89743495">Mathmech Division</card>
+  <card id="10831" passcode="17946349">Mathmech Diameter</card>
+  <card id="10831" passcode="17946349">Mathmech Diameter</card>
+  <card id="10831" passcode="17946349">Mathmech Diameter</card>
+  <card id="10290" passcode="53577438">Mathmech Nabla</card>
+  <card id="10290" passcode="53577438">Mathmech Nabla</card>
+  <card id="10289" passcode="27182739">Mathmech Sigma</card>
+  <card id="10289" passcode="27182739">Mathmech Sigma</card>
+  <card id="10289" passcode="27182739">Mathmech Sigma</card>
+  <card id="10291" passcode="80965043">Mathmech Addition</card>
+  <card id="10291" passcode="80965043">Mathmech Addition</card>
+  <card id="10291" passcode="80965043">Mathmech Addition</card>
+  <card id="10292" passcode="16360142">Mathmech Subtraction</card>
+  <card id="10292" passcode="16360142">Mathmech Subtraction</card>
+  <card id="10292" passcode="16360142">Mathmech Subtraction</card>
+  <card id="10293" passcode="52354896">Mathmech Multiplication</card>
+  <card id="10293" passcode="52354896">Mathmech Multiplication</card>
+  <card id="10293" passcode="52354896">Mathmech Multiplication</card>
+  <card id="10299" passcode="41410651">Mathmech Billionblade Nayuta</card>
+  <card id="10299" passcode="41410651">Mathmech Billionblade Nayuta</card>
+  <card id="9879" passcode="57160136">Cynet Mining</card>
+  <card id="9879" passcode="57160136">Cynet Mining</card>
+  <card id="9879" passcode="57160136">Cynet Mining</card>
+  <card id="2102" passcode="18144506">Harpie&#39;s Feather Duster</card>
+  <card id="10298" passcode="14025912">Mathmech Equation</card>
+  <card id="10298" passcode="14025912">Mathmech Equation</card>
+  <card id="10298" passcode="14025912">Mathmech Equation</card>
+  <card id="8850" passcode="93104632">One-Time Passcode</card>
+  <card id="8850" passcode="93104632">One-Time Passcode</card>
+  <card id="8850" passcode="93104632">One-Time Passcode</card>
+  <card id="10301" passcode="14393464">Mathmech Induction</card>
+  <card id="10301" passcode="14393464">Mathmech Induction</card>
+  <card id="10301" passcode="14393464">Mathmech Induction</card>
+  <card id="10300" passcode="87804365">Mathmech Superfactorial</card>
+  <card id="10300" passcode="87804365">Mathmech Superfactorial</card>
+ </main>
+ <side>
+ </side>
+ <extra>
+  <card id="10296" passcode="42632209">Geomathmech Final Sigma</card>
+  <card id="14770" passcode="72444406">Enigmaster Packbit</card>
+  <card id="10295" passcode="15248594">Geomathmech Magma</card>
+  <card id="10295" passcode="15248594">Geomathmech Magma</card>
+  <card id="15478" passcode="40702028">DPH Gendamoore</card>
+  <card id="10328" passcode="85692042">Primathmech Alembertian</card>
+  <card id="10297" passcode="88021907">Primathmech Laplacian</card>
+ </extra>
+</deck>

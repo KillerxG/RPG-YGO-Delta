@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<deck name="Weverton Bercardio">
+ <main>
+  <card id="13103" passcode="63542003">Keldo the Sacred Protector</card>
+  <card id="13104" passcode="99937011">Mudora the Sword Oracle</card>
+  <card id="3054" passcode="20174189">Naturia Bamboo Shoot</card>
+  <card id="3059" passcode="42110434">Naturia Butterfly</card>
+  <card id="13334" passcode="29942771">Naturia Camellia</card>
+  <card id="3060" passcode="60668166">Naturia Cherries</card>
+  <card id="3060" passcode="60668166">Naturia Cherries</card>
+  <card id="3061" passcode="33866130">Naturia Cliff</card>
+  <card id="3061" passcode="33866130">Naturia Cliff</card>
+  <card id="3061" passcode="33866130">Naturia Cliff</card>
+  <card id="3069" passcode="84905691">Naturia Horneedle</card>
+  <card id="5040" passcode="24694698">Naturia Marron</card>
+  <card id="13333" passcode="93454062">Naturia Mole Cricket</card>
+  <card id="3077" passcode="96653775">Naturia Pumpkin</card>
+  <card id="3082" passcode="23051413">Naturia Stag Beetle</card>
+  <card id="3085" passcode="07478431">Naturia Sunflower</card>
+  <card id="13338" passcode="55125728">Vera the Vernusylph Goddess</card>
+  <card id="12978" passcode="36745317">Vernusylph of the Awakening Forests</card>
+  <card id="12977" passcode="09350312">Vernusylph of the Flourishing Hills</card>
+  <card id="12979" passcode="62133026">Vernusylph of the Flowering Fields</card>
+  <card id="12980" passcode="09238125">Vernusylph of the Thawing Mountains</card>
+  <card id="320" passcode="11813722">Barkion&#39;s Bark</card>
+  <card id="612" passcode="72892473">Card Destruction</card>
+  <card id="1647" passcode="81439173">Foolish Burial</card>
+  <card id="6977" passcode="74335036">Fusion Substitute</card>
+  <card id="2102" passcode="18144506">Harpie&#39;s Feather Duster</card>
+  <card id="2506" passcode="74717840">Landoise&#39;s Luminous Moss</card>
+  <card id="2557" passcode="57201737">Leodrake&#39;s Mane</card>
+  <card id="13377" passcode="34813545">Naturia Blessing</card>
+  <card id="3066" passcode="37322745">Naturia Forest</card>
+  <card id="3336" passcode="24094653">Polymerization</card>
+  <card id="3336" passcode="24094653">Polymerization</card>
+  <card id="3342" passcode="67169062">Pot of Avarice</card>
+  <card id="4574" passcode="70368879">Upstart Goblin</card>
+  <card id="600" passcode="97077563">Call of the Haunted</card>
+  <card id="1491" passcode="17484499">Exchange of the Spirit</card>
+  <card id="1502" passcode="68456353">Exterio&#39;s Fang</card>
+  <card id="6810" passcode="03734202">Naturia Sacred Tree</card>
+  <card id="3106" passcode="14315573">Negate Attack</card>
+  <card id="15069" passcode="89824842">Ragnaraika Hunting Dance</card>
+ </main>
+ <side>
+ </side>
+ <extra>
+  <card id="3065" passcode="99916754">Naturia Exterio</card>
+  <card id="6822" passcode="90555947">Naturia Gaiastrio</card>
+  <card id="13629" passcode="12954226">Circle of the Fairies</card>
+  <card id="8015" passcode="42566602">Coral Dragon</card>
+  <card id="1959" passcode="07391448">Goyo Guardian</card>
+  <card id="3055" passcode="02956282">Naturia Barkion</card>
+  <card id="3057" passcode="33198837">Naturia Beast</card>
+  <card id="3072" passcode="43932460">Naturia Landoise</card>
+  <card id="3073" passcode="16527176">Naturia Leodrake</card>
+ </extra>
+</deck>

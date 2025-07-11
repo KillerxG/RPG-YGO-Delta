@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<deck name="Akami Uwaki">
+ <main>
+  <card id="8611" passcode="36033786">Cyberse Wizard</card>
+  <card id="8781" passcode="44956694">ROM Cloudia</card>
+  <card id="8780" passcode="08567955">Balancer Lord</card>
+  <card id="8780" passcode="08567955">Balancer Lord</card>
+  <card id="8780" passcode="08567955">Balancer Lord</card>
+  <card id="8779" passcode="71172240">Backlinker</card>
+  <card id="8778" passcode="45778242">Cliant</card>
+  <card id="4826240" passcode="">Digital Adventurer Sharkown</card>
+  <card id="4826240" passcode="">Digital Adventurer Sharkown</card>
+  <card id="4826240" passcode="">Digital Adventurer Sharkown</card>
+  <card id="4375737" passcode="">Digital Adventurer Sparkown</card>
+  <card id="4375737" passcode="">Digital Adventurer Sparkown</card>
+  <card id="4375737" passcode="">Digital Adventurer Sparkown</card>
+  <card id="4375739" passcode="">Digital Adventurer Falcown</card>
+  <card id="4375739" passcode="">Digital Adventurer Falcown</card>
+  <card id="4375739" passcode="">Digital Adventurer Falcown</card>
+  <card id="4095" passcode="0423585">Summoner Monk</card>
+  <card id="8612" passcode="63528891">Backup Secretary</card>
+  <card id="8612" passcode="63528891">Backup Secretary</card>
+  <card id="8613" passcode="09523599">Stack Reviver</card>
+  <card id="8777" passcode="18789533">Dotscaper</card>
+  <card id="9099" passcode="50366775">Formud Skipper</card>
+  <card id="2320" passcode="08487449">Jester Confit</card>
+  <card id="4375732" passcode="">Digital Adventurer World</card>
+  <card id="4375732" passcode="">Digital Adventurer World</card>
+  <card id="4375732" passcode="">Digital Adventurer World</card>
+  <card id="4375733" passcode="">Digital Adventurer Digitalize</card>
+  <card id="4375733" passcode="">Digital Adventurer Digitalize</card>
+  <card id="4375733" passcode="">Digital Adventurer Digitalize</card>
+  <card id="9879" passcode="57160136">Cynet Mining</card>
+  <card id="9879" passcode="57160136">Cynet Mining</card>
+  <card id="9879" passcode="57160136">Cynet Mining</card>
+  <card id="4235" passcode="73628505">Terraforming</card>
+  <card id="3043" passcode="05318639">Mystical Space Typhoon</card>
+  <card id="8784" passcode="43839002">Cynet Backdoor</card>
+  <card id="10001" passcode="77449773">Cynet Crosswipe</card>
+  <card id="6345" passcode="84298614">Powerful Rebirth</card>
+  <card id="6882" passcode="50277973">Swamp Mirrorer</card>
+  <card id="6883" passcode="87772572">Quantum Cat</card>
+  <card id="6880" passcode="51099515">Ghosts From the Past</card>
+ </main>
+ <side>
+ </side>
+ <extra>
+  <card id="4375784" passcode="">Digital Adventurer Legend Pantheown</card>
+  <card id="8607" passcode="01861629">Decode Talker</card>
+  <card id="8786" passcode="06622715">Encode Talker</card>
+  <card id="4375783" passcode="">Digital Adventurer Champion Eladrown</card>
+  <card id="4375783" passcode="">Digital Adventurer Champion Eladrown</card>
+  <card id="9992" passcode="45462149">Code Talker Inverted</card>
+ </extra>
+</deck>

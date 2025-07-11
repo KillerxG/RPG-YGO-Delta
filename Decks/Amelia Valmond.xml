@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<deck name="Amelia Valmond">
+ <main>
+  <card id="424" passcode="72989439">Black Luster Soldier - Envoy of the Beginning</card>
+  <card id="2518" passcode="0102380">Lava Golem</card>
+  <card id="952" passcode="65192027">Dark Armed Dragon</card>
+  <card id="6513" passcode="03717252">Shaddoll Beast</card>
+  <card id="6512" passcode="77723643">Shaddoll Dragon</card>
+  <card id="6511" passcode="30328508">Shaddoll Squamata</card>
+  <card id="7271" passcode="67696066">Performage Trick Clown</card>
+  <card id="6763" passcode="52551211">Shaddoll Hound</card>
+  <card id="10519" passcode="51023024">Reeshaddoll Wendi</card>
+  <card id="10519" passcode="51023024">Reeshaddoll Wendi</card>
+  <card id="10519" passcode="51023024">Reeshaddoll Wendi</card>
+  <card id="6480" passcode="41386308">Mathematician</card>
+  <card id="230" passcode="28985331">Armageddon Knight</card>
+  <card id="6342" passcode="73176465">Felis, Lightsworn Archer</card>
+  <card id="8499" passcode="56827051">Ariel, Priestess of the Nekroz</card>
+  <card id="6459" passcode="34710660">Electromagnetic Turtle</card>
+  <card id="6479" passcode="16404809">Kuribandit</card>
+  <card id="6510" passcode="04939890">Shaddoll Hedgehog</card>
+  <card id="10518" passcode="24635329">Qadshaddoll Keios</card>
+  <card id="6509" passcode="37445295">Shaddoll Falco</card>
+  <card id="6545" passcode="44394295">Shaddoll Fusion</card>
+  <card id="6545" passcode="44394295">Shaddoll Fusion</card>
+  <card id="6545" passcode="44394295">Shaddoll Fusion</card>
+  <card id="5528" passcode="81439173">Foolish Burial</card>
+  <card id="2272" passcode="01845204">Instant Fusion</card>
+  <card id="82" passcode="01475311">Allure of Darkness</card>
+  <card id="3342" passcode="67169062">Pot of Avarice</card>
+  <card id="6797" passcode="06417578">El Shaddoll Fusion</card>
+  <card id="6797" passcode="06417578">El Shaddoll Fusion</card>
+  <card id="7718" passcode="43898403">Twin Twisters</card>
+  <card id="7041" passcode="60226558">Nephe Shaddoll Fusion</card>
+  <card id="9388" passcode="34959756">Living Fossil</card>
+  <card id="6546" passcode="81788994">Curse of the Shadow Prison</card>
+  <card id="10521" passcode="23912837">Resh Shaddoll Incarnation</card>
+  <card id="6559" passcode="04904633">Shaddoll Core</card>
+  <card id="6558" passcode="77505534">Sinister Shadow Games</card>
+  <card id="8393" passcode="78942513">Purushaddoll Aeon</card>
+  <card id="8384" passcode="74003290">Lost Wind</card>
+  <card id="8547" passcode="69452756">Unending Nightmare</card>
+  <card id="9540" passcode="81223446">Necro Fusion</card>
+ </main>
+ <side>
+ </side>
+ <extra>
+  <card id="7186" passcode="19261966">El Shaddoll Anoyatyllis</card>
+  <card id="10522" passcode="50907446">El Shaddoll Apkallone</card>
+  <card id="6535" passcode="20366274">El Shaddoll Construct</card>
+  <card id="7029" passcode="74009824">El Shaddoll Wendigo</card>
+  <card id="6782" passcode="74822425">El Shaddoll Shekhinaga</card>
+  <card id="6781" passcode="48424886">El Shaddoll Grysta</card>
+  <card id="10658" passcode="94977269">El Shaddoll Winda</card>
+  <card id="6534" passcode="94977269">El Shaddoll Winda</card>
+  <card id="9075" passcode="86938484">Shaddoll Construct</card>
+ </extra>
+</deck>
