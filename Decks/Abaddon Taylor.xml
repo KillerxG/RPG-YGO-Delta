@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<deck name="Abaddon Taylor">
+ <main>
+  <card id="569" passcode="06104968">Bubonic Vermin</card>
+  <card id="569" passcode="06104968">Bubonic Vermin</card>
+  <card id="569" passcode="06104968">Bubonic Vermin</card>
+  <card id="1106" passcode="78613627">Des Kangaroo</card>
+  <card id="1106" passcode="78613627">Des Kangaroo</card>
+  <card id="1107" passcode="69579761">Des Koala</card>
+  <card id="1107" passcode="69579761">Des Koala</card>
+  <card id="1107" passcode="69579761">Des Koala</card>
+  <card id="4427306" passcode="">Furious Rodent - Beaver</card>
+  <card id="4427306" passcode="">Furious Rodent - Beaver</card>
+  <card id="4427306" passcode="">Furious Rodent - Beaver</card>
+  <card id="4427287" passcode="">Furious Rodent - Capybara</card>
+  <card id="4427287" passcode="">Furious Rodent - Capybara</card>
+  <card id="4427287" passcode="">Furious Rodent - Capybara</card>
+  <card id="4427302" passcode="">Furious Rodent - Chinchilla</card>
+  <card id="4427302" passcode="">Furious Rodent - Chinchilla</card>
+  <card id="4427302" passcode="">Furious Rodent - Chinchilla</card>
+  <card id="4427297" passcode="">Furious Rodent - Mouse</card>
+  <card id="4427297" passcode="">Furious Rodent - Mouse</card>
+  <card id="4427297" passcode="">Furious Rodent - Mouse</card>
+  <card id="2392" passcode="95789089">Kangaroo Champ</card>
+  <card id="2392" passcode="95789089">Kangaroo Champ</card>
+  <card id="2725" passcode="60102563">Maji-Gire Panda</card>
+  <card id="402" passcode="42129512">Big Koala</card>
+  <card id="402" passcode="42129512">Big Koala</card>
+  <card id="1682" passcode="98818516">Frenzied Panda</card>
+  <card id="1682" passcode="98818516">Frenzied Panda</card>
+  <card id="1066" passcode="95286165">De-Fusion</card>
+  <card id="5233" passcode="84257639">Dian Keto the Cure Master</card>
+  <card id="3043" passcode="05318639">Mystical Space Typhoon</card>
+  <card id="3336" passcode="24094653">Polymerization</card>
+  <card id="3336" passcode="24094653">Polymerization</card>
+  <card id="3832" passcode="42534368">Silent Doom</card>
+  <card id="3832" passcode="42534368">Silent Doom</card>
+  <card id="4074" passcode="60764581">Stray Lambs</card>
+  <card id="4074" passcode="60764581">Stray Lambs</card>
+  <card id="600" passcode="97077563">Call of the Haunted</card>
+  <card id="2671" passcode="62279055">Magic Cylinder</card>
+  <card id="2863" passcode="37580756">Michizure</card>
+  <card id="2863" passcode="37580756">Michizure</card>
+ </main>
+ <side>
+ </side>
+ <extra>
+  <card id="2791" passcode="27134689">Master of Oz</card>
+  <card id="2791" passcode="27134689">Master of Oz</card>
+  <card id="4427278" passcode="">Furious Rodent - Frenezy Beaver</card>
+  <card id="4427271" passcode="">Furious Rodent - Frenezy Capybara</card>
+  <card id="4427274" passcode="">Furious Rodent - Frenezy Chinchilla</card>
+  <card id="4427266" passcode="">Furious Rodent - Frenezy Mouse</card>
+ </extra>
+</deck>
