@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<deck name="Scarlet Smith">
+ <main>
+  <card id="24" passcode="12694768">Abaki</card>
+  <card id="6400" passcode="13313278">Battlin&#39; Boxer Veil</card>
+  <card id="6400" passcode="13313278">Battlin&#39; Boxer Veil</card>
+  <card id="14040" passcode="08085950">Burning Dragon</card>
+  <card id="4375643" passcode="">Burning Knight - Jessica</card>
+  <card id="4375643" passcode="">Burning Knight - Jessica</card>
+  <card id="4375643" passcode="">Burning Knight - Jessica</card>
+  <card id="4375647" passcode="">Burning Knight - Prometheus</card>
+  <card id="4375647" passcode="">Burning Knight - Prometheus</card>
+  <card id="4375647" passcode="">Burning Knight - Prometheus</card>
+  <card id="4412481" passcode="">Burning Knight - Reinheart</card>
+  <card id="4412481" passcode="">Burning Knight - Reinheart</card>
+  <card id="4412481" passcode="">Burning Knight - Reinheart</card>
+  <card id="5794" passcode="97396380">Fencing Fire Ferret</card>
+  <card id="1595" passcode="13846680">Firestorm Prominence</card>
+  <card id="11073" passcode="71459017">Hinezumi Hanabi</card>
+  <card id="2518" passcode="0102380">Lava Golem</card>
+  <card id="14753" passcode="50951254">Magmacho Dragon</card>
+  <card id="5726" passcode="61231400">Pyrotech Mech - Shiryu</card>
+  <card id="4640" passcode="66436257">Volcanic Counter</card>
+  <card id="4375651" passcode="">Burning Knight Flame Meteor</card>
+  <card id="4375651" passcode="">Burning Knight Flame Meteor</card>
+  <card id="4375651" passcode="">Burning Knight Flame Meteor</card>
+  <card id="5761" passcode="59388357">Circle of the Fire Kings</card>
+  <card id="1027" passcode="47233801">Dark Snake Syndrome</card>
+  <card id="1027" passcode="47233801">Dark Snake Syndrome</card>
+  <card id="14464" passcode="42516299">Fire Recovery</card>
+  <card id="14464" passcode="42516299">Fire Recovery</card>
+  <card id="14952" passcode="74055055">Oil</card>
+  <card id="4235" passcode="73628505">Terraforming</card>
+  <card id="14301" passcode="83533296">Salamangreat Charge</card>
+  <card id="4731" passcode="38992735">Wave-Motion Cannon</card>
+  <card id="4731" passcode="38992735">Wave-Motion Cannon</card>
+  <card id="282" passcode="63689843">Attack and Receive</card>
+  <card id="282" passcode="63689843">Attack and Receive</card>
+  <card id="282" passcode="63689843">Attack and Receive</card>
+  <card id="945" passcode="98535702">Damage Vaccine Ω MAX</card>
+  <card id="945" passcode="98535702">Damage Vaccine Ω MAX</card>
+  <card id="9260" passcode="07852509">Loop of Destruction</card>
+  <card id="4950" passcode="83555666">Ring of Destruction</card>
+ </main>
+ <side>
+ </side>
+ <extra>
+  <card id="4375654" passcode="">Burning Knight Blader - Reinheart</card>
+  <card id="4375654" passcode="">Burning Knight Blader - Reinheart</card>
+  <card id="4375649" passcode="">Burning Knight Master Blader - Reinheart</card>
+  <card id="4375649" passcode="">Burning Knight Master Blader - Reinheart</card>
+  <card id="6316" passcode="93108839">Number 58: Burner Visor</card>
+  <card id="8131" passcode="82697249">Number 59: Crooked Cook</card>
+  <card id="10133" passcode="66011101">Number 60: Dugares the Timeless</card>
+ </extra>
+</deck>

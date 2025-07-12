@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<deck name="Rita Belladonna">
+ <main>
+  <card id="4395742" passcode="">Transmorpher Knight</card>
+  <card id="4395742" passcode="">Transmorpher Knight</card>
+  <card id="4395742" passcode="">Transmorpher Knight</card>
+  <card id="4395989" passcode="">Transmorpher Wizard</card>
+  <card id="4395989" passcode="">Transmorpher Wizard</card>
+  <card id="4395989" passcode="">Transmorpher Wizard</card>
+  <card id="4396020" passcode="">Transmorpher Beast</card>
+  <card id="4396020" passcode="">Transmorpher Beast</card>
+  <card id="4396020" passcode="">Transmorpher Beast</card>
+  <card id="4397067" passcode="">Transmorpher Disguise</card>
+  <card id="4397090" passcode="">Transmorpher Shapeshift</card>
+  <card id="4397090" passcode="">Transmorpher Shapeshift</card>
+  <card id="4397090" passcode="">Transmorpher Shapeshift</card>
+  <card id="4397152" passcode="">Transmorpher Encroach</card>
+  <card id="4397173" passcode="">Transmorpher Legacy</card>
+  <card id="4397173" passcode="">Transmorpher Legacy</card>
+  <card id="9913" passcode="82496097">Time Thief Bezel Ship</card>
+  <card id="9913" passcode="82496097">Time Thief Bezel Ship</card>
+  <card id="11409" passcode="64730881">Time Thief Adjuster</card>
+  <card id="11409" passcode="64730881">Time Thief Adjuster</card>
+  <card id="11409" passcode="64730881">Time Thief Adjuster</card>
+  <card id="9914" passcode="19891131">Time Thief Regulator</card>
+  <card id="9914" passcode="19891131">Time Thief Regulator</card>
+  <card id="9914" passcode="19891131">Time Thief Regulator</card>
+  <card id="9912" passcode="56308388">Time Thief Winder</card>
+  <card id="9912" passcode="56308388">Time Thief Winder</card>
+  <card id="9912" passcode="56308388">Time Thief Winder</card>
+  <card id="10438" passcode="10877309">Time Thief Startup</card>
+  <card id="10438" passcode="10877309">Time Thief Startup</card>
+  <card id="7524" passcode="75539614">Psychic Blade</card>
+  <card id="3407" passcode="92346415">Psychic Sword</card>
+  <card id="3411" passcode="32180819">Psychokinesis</card>
+  <card id="3402" passcode="82633308">Psychic Overload</card>
+  <card id="3406" passcode="33323657">Psychic Soul</card>
+  <card id="3406" passcode="33323657">Psychic Soul</card>
+  <card id="16590" passcode="09213491">Serene Psychic Girl</card>
+  <card id="16590" passcode="09213491">Serene Psychic Girl</card>
+  <card id="4220" passcode="23323812">Telepathic Power</card>
+  <card id="4220" passcode="23323812">Telepathic Power</card>
+  <card id="1432" passcode="67723438">Emergency Teleport</card>
+ </main>
+ <side>
+ </side>
+ <extra>
+  <card id="4394720" passcode="">Transmorpher Dragon</card>
+  <card id="4394720" passcode="">Transmorpher Dragon</card>
+  <card id="9915" passcode="55285840">Time Thief Redoer</card>
+  <card id="10358" passcode="59208943">Time Thief Perpetua</card>
+  <card id="3400" passcode="45379225">Psychic Lifetrancer</card>
+  <card id="16615" passcode="16246535">Silent Psychic Magician</card>
+ </extra>
+</deck>
