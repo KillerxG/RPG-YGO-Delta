@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<deck name="Terry Karrari">
+ <main>
+  <card id="8211" passcode="42143067">Doki Doki</card>
+  <card id="1863" passcode="79080761">Gigastone Omega</card>
+  <card id="2674" passcode="82458280">Magic Hole Golem</card>
+  <card id="2817" passcode="71544954">Megarock Dragon</card>
+  <card id="5236619" passcode="">Minomushi Brute</card>
+  <card id="5208007" passcode="">Minomushi Rider</card>
+  <card id="10218" passcode="49729312">Primineral Kongreat</card>
+  <card id="11069" passcode="36187051">Rock Band Xenoguitar</card>
+  <card id="16774" passcode="07166709">Steel-Stringed Sacrifice</card>
+  <card id="4148" passcode="51345461">Sword Hunter</card>
+  <card id="6910" passcode="56421754">U.A. Mighty Slugger</card>
+  <card id="8876" passcode="67267333">Vendread Houndhorde</card>
+  <card id="2087" passcode="84285623">Haniwa</card>
+  <card id="5206973" passcode="">Minomushi Warrior</card>
+  <card id="5206973" passcode="">Minomushi Warrior</card>
+  <card id="5208040" passcode="">Minomushi Warrior</card>
+  <card id="3381" passcode="80234301">Prisman</card>
+  <card id="3623" passcode="68846917">Rock Ogre Grotto #1</card>
+  <card id="3622" passcode="62193699">Rock Ogre Grotto #2</card>
+  <card id="4063" passcode="68171737">Stone Dragon</card>
+  <card id="4064" passcode="72269672">Stone Ghost</card>
+  <card id="5236629" passcode="">Kongreat Breaker</card>
+  <card id="5213722" passcode="">Megarock Blader</card>
+  <card id="9364" passcode="34093683">Revendread Executor</card>
+  <card id="43" passcode="46052429">Advanced Ritual Art</card>
+  <card id="982" passcode="90928333">Dark Factory of Mass Production</card>
+  <card id="1490" passcode="05556668">Exchange</card>
+  <card id="2112" passcode="35762283">Heart of the Underdog</card>
+  <card id="11809" passcode="36350300">High Ritual Art</card>
+  <card id="5208238" passcode="">Minomushi Carving</card>
+  <card id="5208267" passcode="">Minomushi Forgery</card>
+  <card id="3043" passcode="05318639">Mystical Space Typhoon</card>
+  <card id="3226" passcode="78986941">Order to Charge</card>
+  <card id="3336" passcode="24094653">Polymerization</card>
+  <card id="9366" passcode="07986397">Revendread Evolution</card>
+  <card id="7207" passcode="0911883">Unexpected Dai</card>
+  <card id="4745" passcode="18756904">White Elephant&#39;s Gift</card>
+  <card id="2371" passcode="62271284">Justi-Break</card>
+  <card id="8154" passcode="17841166">Magnet Force</card>
+  <card id="11821" passcode="23270035">Monster Assortment</card>
+ </main>
+ <side>
+ </side>
+ <extra>
+  <card id="5228314" passcode="">Key Guardians of the Dragon Fortress</card>
+  <card id="3072" passcode="43932460">Naturia Landoise</card>
+  <card id="10850" passcode="39317553">Drill Driver Vespenato</card>
+  <card id="10059" passcode="31897444">Defender of the Labyrinth</card>
+ </extra>
+</deck>
