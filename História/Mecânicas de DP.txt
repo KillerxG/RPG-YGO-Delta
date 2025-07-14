@@ -1,0 +1,25 @@
+Vitória 100 DP
+Empate 50 DP
+Derrota 25 DP
+
+Compras avulsa
+C 20
+R 100
+SR 200
+UR 400
+SSR 1000
+
+
+Vendas 
+
+C 5
+R 20
+SR 40
+UR 80
+SSR 200
+
+
+Booster
+TCG Core Booster Packs = 200
+TCG Side Set Booster Packs = 600
+CCT Booster = 800
