@@ -14,18 +14,18 @@
   <card id="16795" passcode="11161666">Sanaki the Mikanko Devotee</card>
   <card id="14121" passcode="75771170">Arahime the Manifested Mikanko</card>
   <card id="14121" passcode="75771170">Arahime the Manifested Mikanko</card>
-  <card id="5374327" passcode="">Butterfly Lady - Tsukiko</card>
   <card id="13493" passcode="81260679">Ohime the Manifested Mikanko</card>
   <card id="13493" passcode="81260679">Ohime the Manifested Mikanko</card>
   <card id="13493" passcode="81260679">Ohime the Manifested Mikanko</card>
   <card id="295" passcode="19578592">Axe of Fools</card>
   <card id="10445" passcode="41927278">Double-Edged Sword</card>
+  <card id="5202095" passcode="">Final Preparation of Rites</card>
+  <card id="5202095" passcode="">Final Preparation of Rites</card>
   <card id="2145" passcode="52105192">Hidden Armory</card>
   <card id="2145" passcode="52105192">Hidden Armory</card>
   <card id="13896" passcode="57736667">Mikanko Dance - Mayowashidori</card>
   <card id="13496" passcode="80044027">Mikanko Fire Dance</card>
   <card id="13496" passcode="80044027">Mikanko Fire Dance</card>
-  <card id="5374331" passcode="">Moon Blessing</card>
   <card id="13500" passcode="16310544">Mikanko Kagura</card>
   <card id="13500" passcode="16310544">Mikanko Kagura</card>
   <card id="13500" passcode="16310544">Mikanko Kagura</card>
@@ -45,5 +45,6 @@
  <side>
  </side>
  <extra>
+  <card id="5387840" passcode="">Butterfly Lady - Tsukiko</card>
  </extra>
 </deck>
